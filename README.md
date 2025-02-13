@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋Hi I am Bangoura Tidiane
+Passionate web developper
+Location:France, Lyon
+Education:web developpement fullstack
+Currently:Pursuing a bachelor in web developpement fullstack
 
-<!--
-**bangouratidiane/bangouratidiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical skills
+Languages:Javascript; php
+Framework: Reactjs
+Tools:vscode, notepad++
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+African food on line:a site of african food delivery
